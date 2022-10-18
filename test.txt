@@ -1,0 +1,7 @@
+1th
+进入 linux界面后操作(commit  后没备注时)(存在多进程)
+	1. :q (quit缩写)退出
+	2. :q! (quit缩写)强制退出
+	3. i (insert缩写)插入 (继续编写)
+	4. :wq (write quit)保存并退出，先按ESC键退出编辑模式
+	5. :wq!(write quit)强制保存并退出，先按ESC键退出编辑模式
