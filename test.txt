@@ -5,3 +5,5 @@
 	3. i (insert缩写)插入 (继续编写)
 	4. :wq (write quit)保存并退出，先按ESC键退出编辑模式
 	5. :wq!(write quit)强制保存并退出，先按ESC键退出编辑模式
+
+2th 测试
